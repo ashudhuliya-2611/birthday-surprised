@@ -93,7 +93,7 @@ No build tools or installation needed!
 ### Running Locally
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/saklincodes/secret-birthday-gift.git
+   git clone https://github.com/ashu/secret-birthday-gift.git
    ```
 2. Navigate into the project folder:
    ```bash
@@ -157,7 +157,7 @@ Feel free to fork this repository, add your own twists, or submit issues and pul
 
 ## 👨‍💻 Author
 
-Created with 💖 by **[@saklincodes](https://github.com/saklincodes)**
+Created with 💖 by **[@ashutosh](https://github.com/ashudhuliya-2611)**
 
 ---
 
